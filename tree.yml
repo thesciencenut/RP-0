@@ -1438,6 +1438,10 @@ basicAvionics:
         entryCost: 2500
         cost: 100
 
+    US_RP0_AvionicsWedgeEarly:
+        entryCost: 2500
+        cost: 100
+
     # Improved Sputniks
     sputnik2:
         cost: 100
